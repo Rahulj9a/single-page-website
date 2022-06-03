@@ -16,7 +16,7 @@ function openMenu() {
 }
 function closeMenu() {
 
-    navmenu.style.display = 'hidden';
+    navmenu.style.display = 'none';
 }
 
  
