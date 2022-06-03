@@ -1,6 +1,15 @@
 main {
     font-family:  "https://fonts.google.com/specimen/Epilogue";
 }
+.attribution { font-size: 11px; text-align: center;
+margin: 10px auto;
+display: block;
+position: absolute;
+margin: auto;
+bottom:10px;
+left:0;
+right:0;}
+.attribution a { color: hsl(228, 45%, 44%); }
 
 .nav {
     
@@ -101,7 +110,8 @@ main {
     right: 5%;
     top: 10%;
     justify-content: space-around;
-    bottom: 0;
+    
+    bottom:20px;
 }
 
 .hero-image-desk {
